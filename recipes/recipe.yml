@@ -6,7 +6,7 @@ name: template
 description: This is my personal OS image.
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/silverblue-main
+base-image: ghcr.io/ublue-os/main
 image-version: latest # You can pin to a specific version of Fedora as well
 
 # module configuration, executed in order
